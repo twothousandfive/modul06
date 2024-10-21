@@ -1,0 +1,14 @@
+C:\Users\domai\RiderProjects\Modul 06\Laboratory\bin\Debug\net8.0\Laboratory.exe
+C:\Users\domai\RiderProjects\Modul 06\Laboratory\bin\Debug\net8.0\Laboratory.deps.json
+C:\Users\domai\RiderProjects\Modul 06\Laboratory\bin\Debug\net8.0\Laboratory.runtimeconfig.json
+C:\Users\domai\RiderProjects\Modul 06\Laboratory\bin\Debug\net8.0\Laboratory.dll
+C:\Users\domai\RiderProjects\Modul 06\Laboratory\bin\Debug\net8.0\Laboratory.pdb
+C:\Users\domai\RiderProjects\Modul 06\Laboratory\obj\Debug\net8.0\Laboratory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\domai\RiderProjects\Modul 06\Laboratory\obj\Debug\net8.0\Laboratory.AssemblyInfoInputs.cache
+C:\Users\domai\RiderProjects\Modul 06\Laboratory\obj\Debug\net8.0\Laboratory.AssemblyInfo.cs
+C:\Users\domai\RiderProjects\Modul 06\Laboratory\obj\Debug\net8.0\Laboratory.csproj.CoreCompileInputs.cache
+C:\Users\domai\RiderProjects\Modul 06\Laboratory\obj\Debug\net8.0\Laboratory.dll
+C:\Users\domai\RiderProjects\Modul 06\Laboratory\obj\Debug\net8.0\refint\Laboratory.dll
+C:\Users\domai\RiderProjects\Modul 06\Laboratory\obj\Debug\net8.0\Laboratory.pdb
+C:\Users\domai\RiderProjects\Modul 06\Laboratory\obj\Debug\net8.0\Laboratory.genruntimeconfig.cache
+C:\Users\domai\RiderProjects\Modul 06\Laboratory\obj\Debug\net8.0\ref\Laboratory.dll

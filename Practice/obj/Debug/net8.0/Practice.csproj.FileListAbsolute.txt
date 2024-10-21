@@ -1,0 +1,4 @@
+C:\Users\domai\RiderProjects\Modul 06\Practice\obj\Debug\net8.0\Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\domai\RiderProjects\Modul 06\Practice\obj\Debug\net8.0\Practice.AssemblyInfoInputs.cache
+C:\Users\domai\RiderProjects\Modul 06\Practice\obj\Debug\net8.0\Practice.AssemblyInfo.cs
+C:\Users\domai\RiderProjects\Modul 06\Practice\obj\Debug\net8.0\Practice.csproj.CoreCompileInputs.cache
